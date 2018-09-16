@@ -8,12 +8,25 @@ class concretas.MetodosGenerales
 class concretas.NodoCadena
 class concretas.NodoHistorial
 class concretas.NodoNumeroDoble
-interface interfaces.InterfazCola
-interface interfaces.InterfazNodo
-interface interfaces.InterfazPila
+interface interfaces.InterfazCola{
+    void agregarElemento(Object object)
+    Object extraerElemento()
+    int obtenerLongitud()
+    boolean estaVacia()
+    void imprimir()
+}
+interface interfaces.InterfazNodo{
+    void setSiguiente(Object object)
+    Object getSiguiente()
+}
+interface interfaces.InterfazPila{
+    void push(Object object)
+    Object pop()
+    int obtenerLongitud()
+    boolean estaVacia()
+    void imprimir()
+}
 abstractas.ClaseAbstractaNodo --|> interfaces.InterfazNodo : implementa
-interfaces.InterfazNodo : setSiguiente(Object object)
-interfaces.InterfazNodo : getSiguiente()
 concretas.ClaseConcretaCola --|> interfaces.InterfazCola : implementa
 concretas.ClaseConcretaColaHistorial --|> concretas.ClaseConcretaCola : extiende
 concretas.ClaseConcretaPila --|> interfaces.InterfazPila : implementa
