@@ -1,0 +1,2 @@
+Historial de Operaciones ordenadas como fueron ingresadas
+1.) Operacion: 1 1 plus. Resultado: 2.0
