@@ -1,0 +1,23 @@
+@startuml
+abstract class abstractas.ClaseAbstractaNodo
+class Principal.CalculadoraRPN
+class concretas.ClaseConcretaCola
+class concretas.ClaseConcretaColaHistorial
+class concretas.ClaseConcretaPila
+class concretas.MetodosGenerales
+class concretas.NodoCadena
+class concretas.NodoHistorial
+class concretas.NodoNumeroDoble
+interface interfaces.InterfazCola
+interface interfaces.InterfazNodo
+interface interfaces.InterfazPila
+abstractas.ClaseAbstractaNodo --|> interfaces.InterfazNodo : implementa
+interfaces.InterfazNodo : setSiguiente(Object object)
+interfaces.InterfazNodo : getSiguiente()
+concretas.ClaseConcretaCola --|> interfaces.InterfazCola : implementa
+concretas.ClaseConcretaColaHistorial --|> concretas.ClaseConcretaCola : extiende
+concretas.ClaseConcretaPila --|> interfaces.InterfazPila : implementa
+concretas.NodoCadena --|> abstractas.ClaseAbstractaNodo : extiende
+concretas.NodoHistorial --|> abstractas.ClaseAbstractaNodo : extiende
+concretas.NodoNumeroDoble --|> abstractas.ClaseAbstractaNodo : extiende
+@enduml

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="459px" preserveAspectRatio="none" style="width:1254px;height:459px;" version="1.1" viewBox="0 0 1254 459" width="1254px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1tjbtzblekoht" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <!--cluster abstractas-->
+        <polygon fill="#FFFFFF" filter="url(#f1tjbtzblekoht)" points="1069,174,1148,174,1155,197.6094,1247,197.6094,1247,274,1069,274,1069,174" style="stroke: #000000; stroke-width: 2.0;"/>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="1069" x2="1155" y1="197.6094" y2="197.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="73" x="1073" y="190.5332">abstractas</text>
+        <!--cluster Principal-->
+        <polygon fill="#FFFFFF" filter="url(#f1tjbtzblekoht)" points="1079,24,1146,24,1153,47.6094,1237,47.6094,1237,124,1079,124,1079,24" style="stroke: #000000; stroke-width: 2.0;"/>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="1079" x2="1153" y1="47.6094" y2="47.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61" x="1083" y="40.5332">Principal</text>
+        <!--cluster concretas-->
+        <polygon fill="#FFFFFF" filter="url(#f1tjbtzblekoht)" points="22,24,98,24,105,47.6094,1045,47.6094,1045,274,22,274,22,24" style="stroke: #000000; stroke-width: 2.0;"/>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="22" x2="105" y1="47.6094" y2="47.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="70" x="26" y="40.5332">concretas</text>
+        <!--cluster interfaces-->
+        <polygon fill="#FFFFFF" filter="url(#f1tjbtzblekoht)" points="130,324,207,324,214,347.6094,570,347.6094,570,452,130,452,130,324" style="stroke: #000000; stroke-width: 2.0;"/>
+        <line style="stroke: #000000; stroke-width: 2.0;" x1="130" x2="214" y1="347.6094" y2="347.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="71" x="134" y="340.5332">interfaces</text>
+        <!--class abstractas.ClaseAbstractaNodo-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="146" x="1085" y="210"/>
+        <ellipse cx="1100" cy="226" fill="#A9DCDF" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1102.1875,227.7656 L1098.0469,227.7656 L1097.625,228.7969 L1098.0469,228.7969 Q1098.6563,228.7969 1098.9219,229.0313 Q1099.1875,229.2656 1099.1875,229.6563 Q1099.1875,230.0313 1098.9219,230.2656 Q1098.6563,230.5 1098.0469,230.5 L1095.75,230.5 Q1095.1406,230.5 1094.8828,230.2656 Q1094.625,230.0313 1094.625,229.6406 Q1094.625,229.2656 1094.8984,229.0234 Q1095.1719,228.7813 1095.7969,228.7969 L1098.4688,222.1406 L1097.3594,222.1406 Q1096.75,222.1406 1096.4844,221.9063 Q1096.2188,221.6719 1096.2188,221.2813 Q1096.2188,220.9063 1096.4844,220.6719 Q1096.75,220.4375 1097.3594,220.4375 L1101.0313,220.4375 L1104.4219,228.7969 Q1105.0156,228.7969 1105.2031,228.9375 Q1105.5938,229.2031 1105.5938,229.6563 Q1105.5938,230.0313 1105.3359,230.2656 Q1105.0781,230.5 1104.4688,230.5 L1102.1719,230.5 Q1101.5625,230.5 1101.2969,230.2656 Q1101.0313,230.0313 1101.0313,229.6406 Q1101.0313,229.2656 1101.2969,229.0313 Q1101.5625,228.7969 1102.1719,228.7969 L1102.5938,228.7969 L1102.1875,227.7656 Z M1101.4688,226.0625 L1100.1094,222.6875 L1098.7344,226.0625 L1101.4688,226.0625 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="114" x="1114" y="230.9102">ClaseAbstractaNodo</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1086" x2="1230" y1="242" y2="242"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1086" x2="1230" y1="250" y2="250"/>
+        <!--class Principal.CalculadoraRPN-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="125" x="1095.5" y="60"/>
+        <ellipse cx="1110.5" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1113.2656,71.875 Q1113.4219,71.6563 1113.6094,71.5469 Q1113.7969,71.4375 1114.0156,71.4375 Q1114.3906,71.4375 1114.625,71.6953 Q1114.8594,71.9531 1114.8594,72.5625 L1114.8594,74.0156 Q1114.8594,74.625 1114.625,74.8906 Q1114.3906,75.1563 1114.0156,75.1563 Q1113.6719,75.1563 1113.4688,74.9531 Q1113.2656,74.7656 1113.1563,74.25 Q1113.1094,73.8906 1112.9219,73.7031 Q1112.5938,73.3281 1111.9844,73.1094 Q1111.375,72.8906 1110.75,72.8906 Q1109.9844,72.8906 1109.3516,73.2188 Q1108.7188,73.5469 1108.2266,74.2969 Q1107.7344,75.0469 1107.7344,76.0781 L1107.7344,77.1719 Q1107.7344,78.4063 1108.625,79.2266 Q1109.5156,80.0469 1111.1094,80.0469 Q1112.0469,80.0469 1112.7031,79.7969 Q1113.0938,79.6406 1113.5156,79.2031 Q1113.7813,78.9375 1113.9297,78.8594 Q1114.0781,78.7813 1114.2813,78.7813 Q1114.6094,78.7813 1114.8672,79.0391 Q1115.125,79.2969 1115.125,79.6406 Q1115.125,79.9844 1114.7813,80.3906 Q1114.2813,80.9688 1113.4844,81.2969 Q1112.4063,81.75 1111.1094,81.75 Q1109.5938,81.75 1108.3906,81.125 Q1107.4063,80.625 1106.7188,79.5547 Q1106.0313,78.4844 1106.0313,77.2031 L1106.0313,76.0469 Q1106.0313,74.7188 1106.6484,73.5703 Q1107.2656,72.4219 1108.3594,71.8047 Q1109.4531,71.1875 1110.6875,71.1875 Q1111.4219,71.1875 1112.0703,71.3516 Q1112.7188,71.5156 1113.2656,71.875 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="93" x="1124.5" y="80.9102">CalculadoraRPN</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1096.5" x2="1219.5" y1="92" y2="92"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="1096.5" x2="1219.5" y1="100" y2="100"/>
+        <!--class concretas.ClaseConcretaCola-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="141" x="103.5" y="210"/>
+        <ellipse cx="118.5" cy="226" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M121.2656,221.875 Q121.4219,221.6563 121.6094,221.5469 Q121.7969,221.4375 122.0156,221.4375 Q122.3906,221.4375 122.625,221.6953 Q122.8594,221.9531 122.8594,222.5625 L122.8594,224.0156 Q122.8594,224.625 122.625,224.8906 Q122.3906,225.1563 122.0156,225.1563 Q121.6719,225.1563 121.4688,224.9531 Q121.2656,224.7656 121.1563,224.25 Q121.1094,223.8906 120.9219,223.7031 Q120.5938,223.3281 119.9844,223.1094 Q119.375,222.8906 118.75,222.8906 Q117.9844,222.8906 117.3516,223.2188 Q116.7188,223.5469 116.2266,224.2969 Q115.7344,225.0469 115.7344,226.0781 L115.7344,227.1719 Q115.7344,228.4063 116.625,229.2266 Q117.5156,230.0469 119.1094,230.0469 Q120.0469,230.0469 120.7031,229.7969 Q121.0938,229.6406 121.5156,229.2031 Q121.7813,228.9375 121.9297,228.8594 Q122.0781,228.7813 122.2813,228.7813 Q122.6094,228.7813 122.8672,229.0391 Q123.125,229.2969 123.125,229.6406 Q123.125,229.9844 122.7813,230.3906 Q122.2813,230.9688 121.4844,231.2969 Q120.4063,231.75 119.1094,231.75 Q117.5938,231.75 116.3906,231.125 Q115.4063,230.625 114.7188,229.5547 Q114.0313,228.4844 114.0313,227.2031 L114.0313,226.0469 Q114.0313,224.7188 114.6484,223.5703 Q115.2656,222.4219 116.3594,221.8047 Q117.4531,221.1875 118.6875,221.1875 Q119.4219,221.1875 120.0703,221.3516 Q120.7188,221.5156 121.2656,221.875 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="109" x="132.5" y="230.9102">ClaseConcretaCola</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="104.5" x2="243.5" y1="242" y2="242"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="104.5" x2="243.5" y1="250" y2="250"/>
+        <!--class concretas.ClaseConcretaColaHistorial-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="187" x="38.5" y="60"/>
+        <ellipse cx="53.5" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M56.2656,71.875 Q56.4219,71.6563 56.6094,71.5469 Q56.7969,71.4375 57.0156,71.4375 Q57.3906,71.4375 57.625,71.6953 Q57.8594,71.9531 57.8594,72.5625 L57.8594,74.0156 Q57.8594,74.625 57.625,74.8906 Q57.3906,75.1563 57.0156,75.1563 Q56.6719,75.1563 56.4688,74.9531 Q56.2656,74.7656 56.1563,74.25 Q56.1094,73.8906 55.9219,73.7031 Q55.5938,73.3281 54.9844,73.1094 Q54.375,72.8906 53.75,72.8906 Q52.9844,72.8906 52.3516,73.2188 Q51.7188,73.5469 51.2266,74.2969 Q50.7344,75.0469 50.7344,76.0781 L50.7344,77.1719 Q50.7344,78.4063 51.625,79.2266 Q52.5156,80.0469 54.1094,80.0469 Q55.0469,80.0469 55.7031,79.7969 Q56.0938,79.6406 56.5156,79.2031 Q56.7813,78.9375 56.9297,78.8594 Q57.0781,78.7813 57.2813,78.7813 Q57.6094,78.7813 57.8672,79.0391 Q58.125,79.2969 58.125,79.6406 Q58.125,79.9844 57.7813,80.3906 Q57.2813,80.9688 56.4844,81.2969 Q55.4063,81.75 54.1094,81.75 Q52.5938,81.75 51.3906,81.125 Q50.4063,80.625 49.7188,79.5547 Q49.0313,78.4844 49.0313,77.2031 L49.0313,76.0469 Q49.0313,74.7188 49.6484,73.5703 Q50.2656,72.4219 51.3594,71.8047 Q52.4531,71.1875 53.6875,71.1875 Q54.4219,71.1875 55.0703,71.3516 Q55.7188,71.5156 56.2656,71.875 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="155" x="67.5" y="80.9102">ClaseConcretaColaHistorial</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="39.5" x2="224.5" y1="92" y2="92"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="39.5" x2="224.5" y1="100" y2="100"/>
+        <!--class concretas.ClaseConcretaPila-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="136" x="261" y="60"/>
+        <ellipse cx="276" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M278.7656,71.875 Q278.9219,71.6563 279.1094,71.5469 Q279.2969,71.4375 279.5156,71.4375 Q279.8906,71.4375 280.125,71.6953 Q280.3594,71.9531 280.3594,72.5625 L280.3594,74.0156 Q280.3594,74.625 280.125,74.8906 Q279.8906,75.1563 279.5156,75.1563 Q279.1719,75.1563 278.9688,74.9531 Q278.7656,74.7656 278.6563,74.25 Q278.6094,73.8906 278.4219,73.7031 Q278.0938,73.3281 277.4844,73.1094 Q276.875,72.8906 276.25,72.8906 Q275.4844,72.8906 274.8516,73.2188 Q274.2188,73.5469 273.7266,74.2969 Q273.2344,75.0469 273.2344,76.0781 L273.2344,77.1719 Q273.2344,78.4063 274.125,79.2266 Q275.0156,80.0469 276.6094,80.0469 Q277.5469,80.0469 278.2031,79.7969 Q278.5938,79.6406 279.0156,79.2031 Q279.2813,78.9375 279.4297,78.8594 Q279.5781,78.7813 279.7813,78.7813 Q280.1094,78.7813 280.3672,79.0391 Q280.625,79.2969 280.625,79.6406 Q280.625,79.9844 280.2813,80.3906 Q279.7813,80.9688 278.9844,81.2969 Q277.9063,81.75 276.6094,81.75 Q275.0938,81.75 273.8906,81.125 Q272.9063,80.625 272.2188,79.5547 Q271.5313,78.4844 271.5313,77.2031 L271.5313,76.0469 Q271.5313,74.7188 272.1484,73.5703 Q272.7656,72.4219 273.8594,71.8047 Q274.9531,71.1875 276.1875,71.1875 Q276.9219,71.1875 277.5703,71.3516 Q278.2188,71.5156 278.7656,71.875 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="104" x="290" y="80.9102">ClaseConcretaPila</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="262" x2="396" y1="92" y2="92"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="262" x2="396" y1="100" y2="100"/>
+        <!--class concretas.MetodosGenerales-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="137" x="573.5" y="60"/>
+        <ellipse cx="588.5" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M591.2656,71.875 Q591.4219,71.6563 591.6094,71.5469 Q591.7969,71.4375 592.0156,71.4375 Q592.3906,71.4375 592.625,71.6953 Q592.8594,71.9531 592.8594,72.5625 L592.8594,74.0156 Q592.8594,74.625 592.625,74.8906 Q592.3906,75.1563 592.0156,75.1563 Q591.6719,75.1563 591.4688,74.9531 Q591.2656,74.7656 591.1563,74.25 Q591.1094,73.8906 590.9219,73.7031 Q590.5938,73.3281 589.9844,73.1094 Q589.375,72.8906 588.75,72.8906 Q587.9844,72.8906 587.3516,73.2188 Q586.7188,73.5469 586.2266,74.2969 Q585.7344,75.0469 585.7344,76.0781 L585.7344,77.1719 Q585.7344,78.4063 586.625,79.2266 Q587.5156,80.0469 589.1094,80.0469 Q590.0469,80.0469 590.7031,79.7969 Q591.0938,79.6406 591.5156,79.2031 Q591.7813,78.9375 591.9297,78.8594 Q592.0781,78.7813 592.2813,78.7813 Q592.6094,78.7813 592.8672,79.0391 Q593.125,79.2969 593.125,79.6406 Q593.125,79.9844 592.7813,80.3906 Q592.2813,80.9688 591.4844,81.2969 Q590.4063,81.75 589.1094,81.75 Q587.5938,81.75 586.3906,81.125 Q585.4063,80.625 584.7188,79.5547 Q584.0313,78.4844 584.0313,77.2031 L584.0313,76.0469 Q584.0313,74.7188 584.6484,73.5703 Q585.2656,72.4219 586.3594,71.8047 Q587.4531,71.1875 588.6875,71.1875 Q589.4219,71.1875 590.0703,71.3516 Q590.7188,71.5156 591.2656,71.875 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="105" x="602.5" y="80.9102">MetodosGenerales</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="574.5" x2="709.5" y1="92" y2="92"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="574.5" x2="709.5" y1="100" y2="100"/>
+        <!--class concretas.NodoCadena-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="106" x="432" y="60"/>
+        <ellipse cx="447" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M449.7656,71.875 Q449.9219,71.6563 450.1094,71.5469 Q450.2969,71.4375 450.5156,71.4375 Q450.8906,71.4375 451.125,71.6953 Q451.3594,71.9531 451.3594,72.5625 L451.3594,74.0156 Q451.3594,74.625 451.125,74.8906 Q450.8906,75.1563 450.5156,75.1563 Q450.1719,75.1563 449.9688,74.9531 Q449.7656,74.7656 449.6563,74.25 Q449.6094,73.8906 449.4219,73.7031 Q449.0938,73.3281 448.4844,73.1094 Q447.875,72.8906 447.25,72.8906 Q446.4844,72.8906 445.8516,73.2188 Q445.2188,73.5469 444.7266,74.2969 Q444.2344,75.0469 444.2344,76.0781 L444.2344,77.1719 Q444.2344,78.4063 445.125,79.2266 Q446.0156,80.0469 447.6094,80.0469 Q448.5469,80.0469 449.2031,79.7969 Q449.5938,79.6406 450.0156,79.2031 Q450.2813,78.9375 450.4297,78.8594 Q450.5781,78.7813 450.7813,78.7813 Q451.1094,78.7813 451.3672,79.0391 Q451.625,79.2969 451.625,79.6406 Q451.625,79.9844 451.2813,80.3906 Q450.7813,80.9688 449.9844,81.2969 Q448.9063,81.75 447.6094,81.75 Q446.0938,81.75 444.8906,81.125 Q443.9063,80.625 443.2188,79.5547 Q442.5313,78.4844 442.5313,77.2031 L442.5313,76.0469 Q442.5313,74.7188 443.1484,73.5703 Q443.7656,72.4219 444.8594,71.8047 Q445.9531,71.1875 447.1875,71.1875 Q447.9219,71.1875 448.5703,71.3516 Q449.2188,71.5156 449.7656,71.875 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="74" x="461" y="80.9102">NodoCadena</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="433" x2="537" y1="92" y2="92"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="433" x2="537" y1="100" y2="100"/>
+        <!--class concretas.NodoHistorial-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="108" x="746" y="60"/>
+        <ellipse cx="761" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M763.7656,71.875 Q763.9219,71.6563 764.1094,71.5469 Q764.2969,71.4375 764.5156,71.4375 Q764.8906,71.4375 765.125,71.6953 Q765.3594,71.9531 765.3594,72.5625 L765.3594,74.0156 Q765.3594,74.625 765.125,74.8906 Q764.8906,75.1563 764.5156,75.1563 Q764.1719,75.1563 763.9688,74.9531 Q763.7656,74.7656 763.6563,74.25 Q763.6094,73.8906 763.4219,73.7031 Q763.0938,73.3281 762.4844,73.1094 Q761.875,72.8906 761.25,72.8906 Q760.4844,72.8906 759.8516,73.2188 Q759.2188,73.5469 758.7266,74.2969 Q758.2344,75.0469 758.2344,76.0781 L758.2344,77.1719 Q758.2344,78.4063 759.125,79.2266 Q760.0156,80.0469 761.6094,80.0469 Q762.5469,80.0469 763.2031,79.7969 Q763.5938,79.6406 764.0156,79.2031 Q764.2813,78.9375 764.4297,78.8594 Q764.5781,78.7813 764.7813,78.7813 Q765.1094,78.7813 765.3672,79.0391 Q765.625,79.2969 765.625,79.6406 Q765.625,79.9844 765.2813,80.3906 Q764.7813,80.9688 763.9844,81.2969 Q762.9063,81.75 761.6094,81.75 Q760.0938,81.75 758.8906,81.125 Q757.9063,80.625 757.2188,79.5547 Q756.5313,78.4844 756.5313,77.2031 L756.5313,76.0469 Q756.5313,74.7188 757.1484,73.5703 Q757.7656,72.4219 758.8594,71.8047 Q759.9531,71.1875 761.1875,71.1875 Q761.9219,71.1875 762.5703,71.3516 Q763.2188,71.5156 763.7656,71.875 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="76" x="775" y="80.9102">NodoHistorial</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="747" x2="853" y1="92" y2="92"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="747" x2="853" y1="100" y2="100"/>
+        <!--class concretas.NodoNumeroDoble-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="140" x="889" y="60"/>
+        <ellipse cx="904" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M906.7656,71.875 Q906.9219,71.6563 907.1094,71.5469 Q907.2969,71.4375 907.5156,71.4375 Q907.8906,71.4375 908.125,71.6953 Q908.3594,71.9531 908.3594,72.5625 L908.3594,74.0156 Q908.3594,74.625 908.125,74.8906 Q907.8906,75.1563 907.5156,75.1563 Q907.1719,75.1563 906.9688,74.9531 Q906.7656,74.7656 906.6563,74.25 Q906.6094,73.8906 906.4219,73.7031 Q906.0938,73.3281 905.4844,73.1094 Q904.875,72.8906 904.25,72.8906 Q903.4844,72.8906 902.8516,73.2188 Q902.2188,73.5469 901.7266,74.2969 Q901.2344,75.0469 901.2344,76.0781 L901.2344,77.1719 Q901.2344,78.4063 902.125,79.2266 Q903.0156,80.0469 904.6094,80.0469 Q905.5469,80.0469 906.2031,79.7969 Q906.5938,79.6406 907.0156,79.2031 Q907.2813,78.9375 907.4297,78.8594 Q907.5781,78.7813 907.7813,78.7813 Q908.1094,78.7813 908.3672,79.0391 Q908.625,79.2969 908.625,79.6406 Q908.625,79.9844 908.2813,80.3906 Q907.7813,80.9688 906.9844,81.2969 Q905.9063,81.75 904.6094,81.75 Q903.0938,81.75 901.8906,81.125 Q900.9063,80.625 900.2188,79.5547 Q899.5313,78.4844 899.5313,77.2031 L899.5313,76.0469 Q899.5313,74.7188 900.1484,73.5703 Q900.7656,72.4219 901.8594,71.8047 Q902.9531,71.1875 904.1875,71.1875 Q904.9219,71.1875 905.5703,71.3516 Q906.2188,71.5156 906.7656,71.875 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="108" x="918" y="80.9102">NodoNumeroDoble</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="890" x2="1028" y1="92" y2="92"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="890" x2="1028" y1="100" y2="100"/>
+        <!--class interfaces.InterfazCola-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="100" x="146" y="374"/>
+        <ellipse cx="161" cy="390" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M161.9531,386.6406 L161.9531,393.2969 L163.6719,393.2969 Q164.2813,393.2969 164.5469,393.5313 Q164.8125,393.7656 164.8125,394.1563 Q164.8125,394.5313 164.5469,394.7656 Q164.2813,395 163.6719,395 L158.5313,395 Q157.9219,395 157.6563,394.7656 Q157.3906,394.5313 157.3906,394.1406 Q157.3906,393.7656 157.6563,393.5313 Q157.9219,393.2969 158.5313,393.2969 L160.25,393.2969 L160.25,386.6406 L158.5313,386.6406 Q157.9219,386.6406 157.6563,386.4063 Q157.3906,386.1719 157.3906,385.7813 Q157.3906,385.4063 157.6563,385.1719 Q157.9219,384.9375 158.5313,384.9375 L163.6719,384.9375 Q164.2813,384.9375 164.5469,385.1719 Q164.8125,385.4063 164.8125,385.7813 Q164.8125,386.1719 164.5469,386.4063 Q164.2813,386.6406 163.6719,386.6406 L161.9531,386.6406 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="68" x="175" y="394.9102">InterfazCola</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="147" x2="245" y1="406" y2="406"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="147" x2="245" y1="414" y2="414"/>
+        <!--class interfaces.InterfazNodo-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="75.6719" style="stroke: #A80036; stroke-width: 1.5;" width="142" x="412" y="360"/>
+        <ellipse cx="444.1" cy="376" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M445.0531,372.6406 L445.0531,379.2969 L446.7719,379.2969 Q447.3813,379.2969 447.6469,379.5313 Q447.9125,379.7656 447.9125,380.1563 Q447.9125,380.5313 447.6469,380.7656 Q447.3813,381 446.7719,381 L441.6313,381 Q441.0219,381 440.7563,380.7656 Q440.4906,380.5313 440.4906,380.1406 Q440.4906,379.7656 440.7563,379.5313 Q441.0219,379.2969 441.6313,379.2969 L443.35,379.2969 L443.35,372.6406 L441.6313,372.6406 Q441.0219,372.6406 440.7563,372.4063 Q440.4906,372.1719 440.4906,371.7813 Q440.4906,371.4063 440.7563,371.1719 Q441.0219,370.9375 441.6313,370.9375 L446.7719,370.9375 Q447.3813,370.9375 447.6469,371.1719 Q447.9125,371.4063 447.9125,371.7813 Q447.9125,372.1719 447.6469,372.4063 Q447.3813,372.6406 446.7719,372.6406 L445.0531,372.6406 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="72" x="461.9" y="380.9102">InterfazNodo</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="413" x2="553" y1="392" y2="392"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="413" x2="553" y1="400" y2="400"/>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="130" x="418" y="415.4189">setSiguiente(Object object)</text>
+        <text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="67" x="418" y="429.2549">getSiguiente()</text>
+        <!--class interfaces.InterfazPila-->
+        <rect fill="#FEFECE" filter="url(#f1tjbtzblekoht)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="95" x="281.5" y="374"/>
+        <ellipse cx="296.5" cy="390" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M297.4531,386.6406 L297.4531,393.2969 L299.1719,393.2969 Q299.7813,393.2969 300.0469,393.5313 Q300.3125,393.7656 300.3125,394.1563 Q300.3125,394.5313 300.0469,394.7656 Q299.7813,395 299.1719,395 L294.0313,395 Q293.4219,395 293.1563,394.7656 Q292.8906,394.5313 292.8906,394.1406 Q292.8906,393.7656 293.1563,393.5313 Q293.4219,393.2969 294.0313,393.2969 L295.75,393.2969 L295.75,386.6406 L294.0313,386.6406 Q293.4219,386.6406 293.1563,386.4063 Q292.8906,386.1719 292.8906,385.7813 Q292.8906,385.4063 293.1563,385.1719 Q293.4219,384.9375 294.0313,384.9375 L299.1719,384.9375 Q299.7813,384.9375 300.0469,385.1719 Q300.3125,385.4063 300.3125,385.7813 Q300.3125,386.1719 300.0469,386.4063 Q299.7813,386.6406 299.1719,386.6406 L297.4531,386.6406 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="310.5" y="394.9102">InterfazPila</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="282.5" x2="375.5" y1="406" y2="406"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="282.5" x2="375.5" y1="414" y2="414"/>
+        <path d="M1108.42,258.049 C1088.95,266.452 1066.22,275.481 1045,282 C882.333,331.963 686.449,366.461 574.153,383.8809 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="575.013,390.8307,554.184,386.9346,572.896,376.9916,575.013,390.8307" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="67" x="1016" y="304.4951">implementa</text>
+        <path d="M177.152,258.211 C180.534,283.112 185.98,323.218 190.151,353.929 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="197.099,353.072,192.854,373.8324,183.226,354.956,197.099,353.072" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="67" x="185" y="304.4951">implementa</text>
+        <path d="M138.563,108.125 C144.783,130.044 154.278,163.505 161.875,190.275 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="168.619,188.398,167.345,209.549,155.151,192.22,168.619,188.398" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="49" x="153" y="154.4951">extiende</text>
+        <path d="M329,108.196 C329,160.09 329,286.256 329,353.354 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="336,353.652,329,373.6515,322,353.651,336,353.652" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="67" x="330" y="239.4951">implementa</text>
+        <path d="M512.976,108.145 C525.4,117.152 540.666,126.59 556,132 C672.608,173.139 709.614,149.888 833,158 C880.043,161.093 999.776,152.679 1045,166 C1068.45,172.908 1092.07,185.776 1111.61,198.404 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1115.69,192.714,1128.29,209.754,1107.82,204.287,1115.69,192.714" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="49" x="834" y="154.4951">extiende</text>
+        <path d="M830.613,108.203 C842.95,116.676 857.643,125.712 872,132 C915.248,150.941 928.554,149.523 975,158 C1005.805,163.622 1015.32,156.016 1045,166 C1067.72,173.644 1090.84,186.307 1110.19,198.578 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1114.33,192.922,1127.12,209.814,1106.59,204.588,1114.33,192.922" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="49" x="976" y="154.4951">extiende</text>
+        <path d="M990.094,108.125 C1022.42,132.166 1073.41,170.092 1110.73,197.845 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="none" points="1114.93,192.241,1126.8,209.794,1106.57,203.475,1114.93,192.241" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="49" x="1053" y="154.4951">extiende</text>
+        <!--
+@startuml
+abstract class abstractas.ClaseAbstractaNodo
+class Principal.CalculadoraRPN
+class concretas.ClaseConcretaCola
+class concretas.ClaseConcretaColaHistorial
+class concretas.ClaseConcretaPila
+class concretas.MetodosGenerales
+class concretas.NodoCadena
+class concretas.NodoHistorial
+class concretas.NodoNumeroDoble
+interface interfaces.InterfazCola
+interface interfaces.InterfazNodo
+interface interfaces.InterfazPila
+abstractas.ClaseAbstractaNodo - -|> interfaces.InterfazNodo : implementa
+interfaces.InterfazNodo : setSiguiente(Object object)
+interfaces.InterfazNodo : getSiguiente()
+concretas.ClaseConcretaCola - -|> interfaces.InterfazCola : implementa
+concretas.ClaseConcretaColaHistorial - -|> concretas.ClaseConcretaCola : extiende
+concretas.ClaseConcretaPila - -|> interfaces.InterfazPila : implementa
+concretas.NodoCadena - -|> abstractas.ClaseAbstractaNodo : extiende
+concretas.NodoHistorial - -|> abstractas.ClaseAbstractaNodo : extiende
+concretas.NodoNumeroDoble - -|> abstractas.ClaseAbstractaNodo : extiende
+@enduml
+
+PlantUML version 2017.11(Wed Apr 19 10:18:59 CST 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_151-b12
+Operating System: Windows 8.1
+OS Version: 6.3
+Default Encoding: Cp1252
+Language: es
+Country: GT
+-->
+    </g>
+</svg>
