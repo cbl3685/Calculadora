@@ -1,6 +1,6 @@
 # Calculadora Con Notación Polaca Inversa
 
-Esta es una calculadora que realiza operaciones ingresadas con notación polaca inversa.
+Esta es una calculadora que realiza operaciones ingresadas con notación polaca inversa. La calculadora está programada en Java y se utiliza a través de  consola.
 
 ## Instrucciones
 La caculadora cuenta con estas opciones:
@@ -12,7 +12,7 @@ La caculadora cuenta con estas opciones:
 
 ### 1. Realizar una nueva operación
 Esta opción permite ingresar una nueva operación y obtener su resultado. La operación debe ser ingresada utilizando notación polaca inversa.
-Por ejemplo, se pude ingresar la siguiente operación: "2 2 plus" y el resultado (4) será mostrado por el programa. Cada operación realizada se almacena en un historial de operaciones, excepto las operaciones que resulten en un error. Por ejemplo, la operación "2 2 plus plus" resultará en un error ya que no hay suficientes operandos para realizar una operación, y no será guardada en el historial.
+Por ejemplo, se pude ingresar la siguiente operación: *2 2 plus* y el resultado (*4*) será mostrado por el programa. Cada operación realizada se almacena en un historial de operaciones, excepto las operaciones que resulten en un error. Por ejemplo, la operación "2 2 plus plus" resultará en un error ya que no hay suficientes operandos para realizar una operación, y no será guardada en el historial.
 
 ### 2. Mostrar historial
 Muestra las operaciones almacenadas en el historial hasta ese momento. Por defecto, las operaciones se muestran en el orden en que fueron ingresadas hasta que se decida ordenarlas de forma ascendente o descendente.
