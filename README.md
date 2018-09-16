@@ -1,6 +1,6 @@
 # Calculadora Con Notación Polaca Inversa
 
-Esta es una calculadora que realiza operaciones ingresadas con notación polaca inversa. La calculadora está programada en Java y se utiliza a través de  consola.
+Esta es una calculadora que realiza operaciones ingresadas con notación polaca inversa. La calculadora está programada en Java y se utiliza a través de  consola. Al iniciar la calculadora, se muestra un menú con 5 opciones y el menú se muestra nuevamente al finalizar una acción, hasta que el usuario decida salir.
 
 ## Instrucciones
 La caculadora cuenta con estas opciones:
